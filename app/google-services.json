@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784294187100",
+    "firebase_url": "https://datakaryawan-6140f-default-rtdb.firebaseio.com",
+    "project_id": "datakaryawan-6140f",
+    "storage_bucket": "datakaryawan-6140f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784294187100:android:9029e9b2c43589e6ef9699",
+        "android_client_info": {
+          "package_name": "com.example.datakaryawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784294187100-t58vl3jrdv0bf95difb6kb5l1gkofks9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnQBWF-kVHPOSDk0TN6TqAdt0I1LRDxT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784294187100-3q8hftik4d3915tahh9igih9koqplpkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

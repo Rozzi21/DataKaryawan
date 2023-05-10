@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Data Karyawan</string>
+    <string name="Selected_Item">SelectedItem</string>
+    <string-array name="Jabatan">
+        <item>Barista</item>
+        <item>Roaster</item>
+        <item>Quality Control</item>
+        <item>Supervisor</item>
+        <item>Manager</item>
+        <item>Sales and Marketing</item>
+        <item>Pemroses kopi</item>
+        <item>Pembeli kopi</item>
+        <item>Staff Administrasi</item>
+    </string-array>
+</resources>
